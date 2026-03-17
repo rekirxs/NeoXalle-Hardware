@@ -24,15 +24,21 @@ Hardware
 
 Current prototype uses the following components:
 
-ESP32-C3
-MPU6050 accelerometer
+Slaves
+  ESP32-C3
+  MPU6050 accelerometer  SDA gpio5 SCL gpio4 (Use 3.3v output from the 3.3v voltage regulator)
+  WS2812b 24b / NeoPixel LED ring (solder a 16v 250uf condensator to gnd a 5v)
+  Coin vibration motor (connect a 2n3904 transistor and a diode with the motor in parallel)
+  5V 1A battery charging module 
+  3.7V 1200 mAh LiPo battery
+  12V - 5V step-down / voltage regulation
+  5V - 3.3V step-down / voltage regulation
+  Pogo Pins round magnetic 4 pins
+  ABS Case And Lid (SLAVE) 3D print
 
-WS2812b 24b / NeoPixel LED ring
-Coin vibration motor
-5V 1A battery charging module
-3.7V 1200 mAh LiPo battery
-12V - 5V step-down / voltage regulation
-5V - 3.3V step-down / voltage regulation
+Master 
+ESP32-S3
+ ABS Case And Lid (Master) 3D print
 
 Most of the components are easy to find on AliExpress or similar electronics suppliers.
 
@@ -53,6 +59,11 @@ game logic
 
 
 Impact detection is intentionally simple for now: it mostly looks at sudden acceleration spikes from the top direction rather than full motion tracking.
+
+FIRMWARE 
+
+Connect the ESP32c3 to arduino IDE and upload the Slave V2 code.
+Connect the ESP32s3 to arduino IDE and upload the Master V2 code.
 
 Project Status
 
