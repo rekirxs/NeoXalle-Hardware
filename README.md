@@ -46,7 +46,7 @@ Most of the components are easy to find on AliExpress or similar electronics sup
 
 Basic Architecture
 
-![circuit(Images/circuit.png)
+![circuit](Images/circuit.png)
 
 Battery
 → Charging module
