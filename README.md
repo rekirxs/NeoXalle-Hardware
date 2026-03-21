@@ -27,7 +27,7 @@ Hardware
 Current prototype uses the following components:
 
 Slaves
-  ESP32-C3
+  ESP32-C3 - 5V
   MPU6050 accelerometer  SDA gpio5 SCL gpio4 (Use 3.3v output from the 3.3v voltage regulator)
   WS2812b 24b / NeoPixel LED ring (solder a 16v 250uf condensator to gnd a 5v)
   Coin vibration motor (connect a 2n3904 transistor and a diode with the motor in parallel)
@@ -47,6 +47,8 @@ Most of the components are easy to find on AliExpress or similar electronics sup
 Basic Architecture
 
 ![circuit](Images/circuit.png)
+
+Follow the schematic for more detailed tutorial.
 
 Battery
 → Charging module
