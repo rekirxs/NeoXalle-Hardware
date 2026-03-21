@@ -3,7 +3,9 @@
 Hardware side of the Neoxalle reaction training system.
 
 This repository contains the electronics design and wiring references used to build the Neoxalle nodes. Each node acts as a standalone reaction target with lights, motion sensing, and vibration feedback. The goal of the project is to create something similar to BlazePods but open and customizable.
+[![Watch the video](https://img.youtube.com/vi/leAVq9ZJ1fE/maxresdefault.jpg)](https://youtu.be/leAVq9ZJ1fE)
 
+### [Watch this video on YouTube](https://youtu.be/leAVq9ZJ1fE)
 
 
 Each Neoxalle unit is built around an ESP32-C3 microcontroller. The device controls LEDs, reads motion sensors, and triggers vibration motors depending on what the software requests.
