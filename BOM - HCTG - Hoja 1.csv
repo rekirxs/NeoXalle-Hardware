@@ -1,0 +1,14 @@
+ITEM,PRICE $,QUANTITY,PURPOSE,LINK
+ESP32C3,3.87,2,MCU,https://es.aliexpress.com/item/1005005319963906.html
+MPU6050,2.65,2,Accelerometer,https://es.aliexpress.com/item/1005008796700745.html
+Li-on Battery (1200mah),21.22,2,Power,https://es.aliexpress.com/item/1005011601135401.html
+LED Ring,6.59,2,Visuals,https://es.aliexpress.com/item/1005011810508134.html
+5V Battery Charger,3.29,2,Power,https://es.aliexpress.com/item/1005010275198186.html
+Pogo Pins - Male,5,2,Charging System,https://es.aliexpress.com/item/1005010526681879.html
+Pogo PIns - Female,5,2,Charging System,https://es.aliexpress.com/item/1005010526681879.html
+3D Print - Top,0,2,Structure,https://cad.onshape.com/documents/914ab1e3f9de5857bd04cad5/w/fe3775e11ed4b5ce7c2d1721/e/2a4a9405b78e8a972a361091https://cad.onshape.com/documents/914ab1e3f9de5857bd04cad5/w/fe3775e11ed4b5ce7c2d1721/e/2a4a9405b78e8a972a361091
+3D Print - Base,0,2,Structure,https://cad.onshape.com/documents/914ab1e3f9de5857bd04cad5/w/fe3775e11ed4b5ce7c2d1721/e/2a4a9405b78e8a972a361091https://cad.onshape.com/documents/914ab1e3f9de5857bd04cad5/w/fe3775e11ed4b5ce7c2d1721/e/2a4a9405b78e8a972a3610911
+1N4007 Diode,0.99,2,One way Charging,https://es.aliexpress.com/item/1005009923993443.html
+AMS1117 - 3.3V,7.36,2,MPU6050 Power Supply,https://es.aliexpress.com/item/1005011601159722.html
+M3 Screws,0.99,4,Assembly,https://es.aliexpress.com/item/1005011821173994.html
+M3 Nuts,0.99,4,Assembly,es.aliexpress.com/item/1005006071488810.html
