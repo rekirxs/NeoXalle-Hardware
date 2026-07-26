@@ -7,6 +7,7 @@ This repository contains the electronics design and wiring references used to bu
 
 ### [Watch this video on YouTube](https://youtu.be/leAVq9ZJ1fE)
 
+onShape link: https://cad.onshape.com/documents/914ab1e3f9de5857bd04cad5/w/fe3775e11ed4b5ce7c2d1721/e/2a4a9405b78e8a972a361091
 
 Each Neoxalle unit is built around an ESP32-C3 microcontroller. The device controls LEDs, reads motion sensors, and triggers vibration motors depending on what the software requests.
 
